@@ -37,7 +37,7 @@
             </a>
           </li>
           <li>
-            <a href="./portfolio.html" class="flex items-center h-full">
+            <a href="./portfolio.php" class="flex items-center h-full">
               포트폴리오
             </a>
           </li>
@@ -46,19 +46,3 @@
     </header>
 
     <main>
-      <section class="setion-1">
-        <div class="container mx-auto">
-          포트폴리오
-        </div>
-      </section>
-    </main>
-
-
-    <footer class="flex items-center justify-center text-center bg-red-200 h-14">
-      <a href="./" class="flex items-center px-4 logo">
-        로고
-      </a>
-    </footer>
-  </div>
-</body>
-</html>
